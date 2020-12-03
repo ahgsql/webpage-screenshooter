@@ -1,0 +1,21 @@
+{
+  "name": "ss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "find-process": "^1.4.4",
+    "install": "^0.13.0",
+   
+    "npm": "^6.14.9",
+    "puppeteer": "^5.5.0",
+    "uniqid": "^5.2.0"
+  }
+}
